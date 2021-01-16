@@ -1,1 +1,1 @@
-# SFMLSnake
+# SFML Snake
